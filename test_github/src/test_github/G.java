@@ -6,6 +6,6 @@ public static void main(String[] args) {
 	System.out.println("属实不方便");
 	System.out.println("哪里冲突了");
 	System.out.println("123");
-	System.out.println("12345");
+	System.out.println("1234");
 }
 }
